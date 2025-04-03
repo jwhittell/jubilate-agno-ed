@@ -6,7 +6,7 @@ source: "Fragment B"
 permalink: /texts/jeoffry.html
 ---
 
-##For I will consider my Cat Jeoffry
+## For I will consider my Cat Jeoffry
 from Fragment B
 
 One of the most-cited 
