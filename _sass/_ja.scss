@@ -28,8 +28,8 @@ div.column-text {
 }
 
 .column-image {
-	display: flex;
-	/*flex-direction: column;*/
+	flex: 50%;
+	flex-direction: column;
 	/*justify-content: center;*/
  	/*align-items: center;*/
 	text-align: center;
