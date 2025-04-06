@@ -36,6 +36,16 @@ div.column-text {
 	margin-right: 20px;
 }
 
+.toc-column-image {
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	margin-right: 10px;
+	height: 500px;
+	width: 500px;
+	object-fit: fill;
+}
+
 .center-image{
 	display: block;
 	margin-left: auto;
