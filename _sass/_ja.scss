@@ -19,14 +19,18 @@
 }
 
 div.column-text {
-	flex:50%;
 	margin-bottom: 1rem;
-	margin-left: 1em;
+	margin-left: 16em;
 }
 
 .column {
     flex: 50%;
-	text-align: center;
+}
+
+.column-image {
+	flex: 50%;
+  	justify-content: center;
+ 	align-items: center;
 }
 
 .center-image{
