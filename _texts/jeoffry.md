@@ -6,10 +6,21 @@ source: "Fragment B"
 permalink: /texts/jeoffry.html
 ---
 
-## For I will consider my Cat Jeoffry
 from Fragment B
 
-One of the most-cited 
+One of the most-cited passages from Jubilate Agno, this section lavishes attention on Jeoffry, Smart's companion during his confinement. 
+ADD MORE HERE
+
+
+
+Jeoffry's particular kind of watching and attention
+
+electricity
+
+The unusual 
+21st-century American poet Chen Chen's "For I will consider my boyfriend Geoffrey" 
+
+## For I will consider my Cat Jeoffry
 
 - For I will consider my Cat Jeoffry.
 - For he is the servant of the Living God duly and daily serving him.
