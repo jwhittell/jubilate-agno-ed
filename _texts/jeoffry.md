@@ -106,6 +106,7 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
   <span class="tooltiptext">Some tooltip text</span>
   </div> very pernicious by land.
 - For his ears are so acute that they sting again.
+- At this time, Anna,<sup><a href="#fn2" id="ref2">\*</a></sup> my intended wife, came on
 - For from this proceeds the passing quickness of his attention.
 - For by stroking of him I have found out electricity.
 - For I perceived God's light about him both wax and fire.
