@@ -12,10 +12,10 @@ TEST 2
 /* Tooltip container */
 .tooltip {
   /*position: relative;
-  display: inline-block;
+  display: inline-block;*/
   border-bottom: 1px dotted black; /* Add dots under the hoverable text */
-    /*cursor: pointer;
-  z-index: 1;*/
+    cursor: pointer;
+  /*z-index: 1;*/
 }
 
 /* Tooltip text */
@@ -105,7 +105,7 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
 - For he is good to think on, if a man would express himself neatly.
 - For he made a great figure in Egypt for his signal services.
 - For he killed the      <span class="tooltip">Ichneumon-rat <span class="tooltiptext">Some tooltip text</span> </span> very pernicious by land.
-- TEST NOW
+- <a href="[url](https://en.wikipedia.org/wiki/Ichneumon_(medieval_zoology))">TEST text</a>TEST AGAIN
 - For his ears are so acute that they sting again.
 - For from this proceeds the passing quickness of his attention.
 - For by stroking of him I have found out electricity.
