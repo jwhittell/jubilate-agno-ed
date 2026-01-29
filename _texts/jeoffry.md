@@ -102,7 +102,7 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
 - For he camels his back to bear the first notion of business.
 - For he is good to think on, if a man would express himself neatly.
 - For he made a great figure in Egypt for his signal services.
-- For he killed the <div class="tooltip"> Ichneumon-rat
+For he killed the <div class="tooltip"> Ichneumon-rat
   <span class="tooltiptext">Some tooltip text</span>
   </div> very pernicious by land.
 - For his ears are so acute that they sting again.
