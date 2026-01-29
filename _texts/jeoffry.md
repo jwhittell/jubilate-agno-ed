@@ -6,43 +6,6 @@ editor: jesslyn
 source: "Fragment B"
 permalink: /texts/jeoffry.html
 ---
-<html>
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-  cursor: pointer;
-}
-
-.tooltiptext {
-  visibility: hidden;
-  width: 130px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-</style>
-<body>
-
-<h2>Basic CSS Tooltip Code</h2>
-
-<p>Move the mouse over the text below:</p>
-
-<div class="tooltip">Hover over me
-  <span class="tooltiptext">Some tooltip text</span>
-</div>
-
-</body>
-</html>
 
 
 from Fragment B
