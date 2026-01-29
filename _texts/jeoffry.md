@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+
+---
+layout: poem
+title: "For I will consider my Cat Jeoffry"
+editor: jesslyn
+source: "Fragment B"
+permalink: /texts/jeoffry.html
+---
 <html>
 <style>
 .tooltip {
@@ -34,17 +41,9 @@
   <span class="tooltiptext">Some tooltip text</span>
 </div>
 
-<p>Note that the position of the tooltip text isn't very good. Go back to the tutorial and continue reading on how to position the tooltip in a desirable way.</p>
-
 </body>
 </html>
----
-layout: poem
-title: "For I will consider my Cat Jeoffry"
-editor: jesslyn
-source: "Fragment B"
-permalink: /texts/jeoffry.html
----
+
 
 from Fragment B
 
