@@ -10,11 +10,11 @@ permalink: /texts/jeoffry.html
 <style>
 /* Tooltip container */
 .tooltip {
-  position: relative;
+  /*position: relative;
   display: inline-block;
   border-bottom: 1px dotted black; /* Add dots under the hoverable text */
-  cursor: pointer;
-  z-index: 1;
+    /*cursor: pointer;
+  z-index: 1;*/
 }
 
 /* Tooltip text */
