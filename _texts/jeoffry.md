@@ -7,6 +7,33 @@ permalink: /texts/jeoffry.html
 ---
 
 
+<style>
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* Add dots under the hoverable text */
+  cursor: pointer;
+}
+
+/* Tooltip text */
+.tooltiptext {
+  visibility: hidden; /* Hidden by default */
+  width: 130px;
+  background-color: black;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1; /* Ensure tooltip is displayed above content */
+}
+
+/* Show the tooltip text on hover */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
 from Fragment B
 
 One of the most-cited passages from Jubilate Agno, this section lavishes attention on Jeoffry, Smart's companion during his confinement. 
@@ -75,7 +102,7 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
 - For he camels his back to bear the first notion of business.
 - For he is good to think on, if a man would express himself neatly.
 - For he made a great figure in Egypt for his signal services.
-- For he killed the <div class="tooltip">Ichneumon-rat
+- For he killed the <div class="tooltip"> Ichneumon-rat
   <span class="tooltiptext">Some tooltip text</span></div> very pernicious by land.
 - For his ears are so acute that they sting again.
 - For from this proceeds the passing quickness of his attention.
@@ -88,34 +115,6 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
 - For he can tread to all the measures upon the music.
 - For he can swim for life.
 - For he can creep.
-
-<style>
-/* Tooltip container */
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black; /* Add dots under the hoverable text */
-  cursor: pointer;
-}
-
-/* Tooltip text */
-.tooltiptext {
-  visibility: hidden; /* Hidden by default */
-  width: 130px;
-  background-color: black;
-  color: #ffffff;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 6px;
-  position: absolute;
-  z-index: 1; /* Ensure tooltip is displayed above content */
-}
-
-/* Show the tooltip text on hover */
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-</style>
 
 <div class="tooltip">Hover over me
   <span class="tooltiptext">Some tooltip text</span>
