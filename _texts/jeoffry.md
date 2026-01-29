@@ -87,3 +87,35 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
 - For he can tread to all the measures upon the music.
 - For he can swim for life.
 - For he can creep.
+
+<style>
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* Add dots under the hoverable text */
+  cursor: pointer;
+}
+
+/* Tooltip text */
+.tooltiptext {
+  visibility: hidden; /* Hidden by default */
+  width: 130px;
+  background-color: black;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1; /* Ensure tooltip is displayed above content */
+}
+
+/* Show the tooltip text on hover */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
+
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">Some tooltip text</span>
+</div>
