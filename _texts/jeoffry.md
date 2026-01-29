@@ -1,4 +1,3 @@
-
 ---
 layout: poem
 title: "For I will consider my Cat Jeoffry"
