@@ -6,6 +6,7 @@ source: "Fragment B"
 permalink: /texts/jeoffry.html
 ---
 
+TEST 2
 
 <style>
 /* Tooltip container */
