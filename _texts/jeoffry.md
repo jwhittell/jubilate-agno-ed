@@ -13,7 +13,7 @@ permalink: /texts/jeoffry.html
   /*display: inline-block; /*maybe change*/
   border-bottom: 1px dotted black; /* Add dots under the hoverable text */
     cursor: pointer;
-  /*z-index: 1;*/
+  z-index: 1;
 }
 
 /* Tooltip text */
@@ -29,7 +29,7 @@ permalink: /texts/jeoffry.html
   z-index: 1; /* Ensure tooltip is displayed above content */
   top: 100%;
   left: 50%;
-  /*transform: translateX(-50%);*/
+  transform: translateX(-50%);
 }
 
 /* Show the tooltip text on hover */
