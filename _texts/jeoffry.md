@@ -29,7 +29,7 @@ permalink: /texts/jeoffry.html
   z-index: 1; /* Ensure tooltip is displayed above content */
   top: 100%;
   left: 50%;
-  transform: translateX(-50%);
+  /*transform: translateX(-50%);*/
 }
 
 /* Show the tooltip text on hover */
