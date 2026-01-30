@@ -6,7 +6,55 @@ source: "Fragment B"
 permalink: /texts/jeoffry.html
 ---
 
-TEST 2
+<style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            border-bottom: 1px dotted black;
+            margin-right: 20px;
+        }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 120px;
+            background-color: #555;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            opacity: 0;
+            transition: opacity 0.3s;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .tooltip.top .tooltiptext {
+            bottom: 100%;
+            top: auto;
+        }
+
+        .tooltip.bottom .tooltiptext {
+            top: 100%;
+            bottom: auto;
+        }
+    </style>
+
 
 <style>
 /* Tooltip container */
@@ -36,6 +84,7 @@ TEST 2
   visibility: visible;
 }
 </style>
+
 from Fragment B
 
 One of the most-cited passages from Jubilate Agno, this section lavishes attention on Jeoffry, Smart's companion during his confinement. 
@@ -118,6 +167,21 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
 - For he can swim for life.
 - For he can creep.
 
-<div class="tooltip">Hover over me
-  <span class="tooltiptext">Some tooltip text</span>
-</div>
+
+    <div class="tooltip top">
+        Hover over me (Top)
+        <span class="tooltiptext">
+            <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20240327032356/gfgimg.png"
+                 alt="GeeksforGeeks Image" 
+                 style="width: 100px; height: auto;">
+        </span>
+    </div>
+    <div class="tooltip bottom">
+        Hover over me (Bottom)
+        <span class="tooltiptext">
+            <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20240327032356/gfgimg.png"
+                 alt="GeeksforGeeks Image" style="width: 100px; height: auto;">
+        </span>
+    </div>
