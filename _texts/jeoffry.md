@@ -9,7 +9,7 @@ permalink: /texts/jeoffry.html
 <style>
 /* Tooltip container */
 .tooltip {
-  position: relative; /*maybe change?*/
+  /*position: relative; /*maybe change?*/
   display: inline-block; /*maybe change*/
   border-bottom: 1px dotted black; /* Add dots under the hoverable text */
     cursor: pointer;
