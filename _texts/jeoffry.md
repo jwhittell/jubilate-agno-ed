@@ -27,7 +27,8 @@ permalink: /texts/jeoffry.html
   border-radius: 6px;
   position: absolute;
   z-index: 1; /* Ensure tooltip is displayed above content */
-  top: 100%;
+  bottom: 100%;
+  top: auto;
   left: 50%;
   transform: translateX(-50%);
 }
