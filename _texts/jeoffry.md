@@ -7,60 +7,10 @@ permalink: /texts/jeoffry.html
 ---
 
 <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        .tooltip {
-            position: relative;
-            display: inline-block;
-            border-bottom: 1px dotted black;
-            margin-right: 20px;
-        }
-
-        .tooltip .tooltiptext {
-            visibility: hidden;
-            width: 120px;
-            background-color: #555;
-            color: #fff;
-            text-align: center;
-            border-radius: 6px;
-            padding: 5px;
-            position: absolute;
-            z-index: 1;
-            opacity: 0;
-            transition: opacity 0.3s;
-            top: 100%;
-            left: 50%;
-            transform: translateX(-50%);
-        }
-
-        .tooltip:hover .tooltiptext {
-            visibility: visible;
-            opacity: 1;
-        }
-
-        .tooltip.top .tooltiptext {
-            bottom: 100%;
-            top: auto;
-        }
-
-        .tooltip.bottom .tooltiptext {
-            top: 100%;
-            bottom: auto;
-        }
-    </style>
-
-
-<style>
 /* Tooltip container */
 .tooltip {
-  /*position: relative;
-  display: inline-block;*/
+  position: relative; /*maybe change?*/
+  display: inline-block; /*maybe change*/
   border-bottom: 1px dotted black; /* Add dots under the hoverable text */
     cursor: pointer;
   /*z-index: 1;*/
@@ -70,13 +20,16 @@ permalink: /texts/jeoffry.html
 .tooltiptext {
   visibility: hidden; /* Hidden by default */
   width: 130px;
-  background-color: black;
+  background-color: #555;
   color: #ffffff;
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
   position: absolute;
   z-index: 1; /* Ensure tooltip is displayed above content */
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 /* Show the tooltip text on hover */
@@ -166,22 +119,3 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
 - For he can tread to all the measures upon the music.
 - For he can swim for life.
 - For he can creep.
-
-
-    <div class="tooltip top">
-        Hover over me (Top)
-        <span class="tooltiptext">
-            <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20240327032356/gfgimg.png"
-                 alt="GeeksforGeeks Image" 
-                 style="width: 100px; height: auto;">
-        </span>
-    </div>
-    <div class="tooltip bottom">
-        Hover over me (Bottom)
-        <span class="tooltiptext">
-            <img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20240327032356/gfgimg.png"
-                 alt="GeeksforGeeks Image" style="width: 100px; height: auto;">
-        </span>
-    </div>
