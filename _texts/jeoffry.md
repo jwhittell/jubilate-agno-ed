@@ -11,7 +11,7 @@ permalink: /texts/jeoffry.html
 .tooltip {
   position: relative; /*maybe change?*/
   /*display: inline-block; /*maybe change*/
-  border-bottom: 1px dotted black; /* Add dots under the hoverable text */
+  /*border-bottom: 1px dotted black; /* Add dots under the hoverable text */
     cursor: pointer;
   z-index: 1;
 }
