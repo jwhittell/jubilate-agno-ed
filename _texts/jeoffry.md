@@ -19,7 +19,7 @@ permalink: /texts/jeoffry.html
 /* Tooltip text */
 .tooltiptext {
   line-height: normal;
-  font-size: .3em;
+  font-size: 1em;
   visibility: hidden; /* Hidden by default */
   width: 250px;
   background-color: #555;
