@@ -111,7 +111,7 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
 - For he camels his back to bear the first notion of business.
 - For he is good to think on, if a man would express himself neatly.
 - For he made a great figure in Egypt for his signal services.
-- For he killed the <span class="tooltip"> <a href= "{{site.baseurl}}/texts/animals#ichneumon">Ichneumon-rat </a><span class="tooltiptext"><img src=
+- For he killed the <span class="tooltip"> <a href= "{{site.baseurl}}/texts/animals.html#ichneumon">Ichneumon-rat </a><span class="tooltiptext"><img src=
 "{{site.baseurl}}/assets/ichneumon rat.jpg"
                  style="width: 240px; height: auto;"> In medieval literature and zoology, the Ichneumon rat could resist the venom of snakes and the fire of dragons, making it the natural enemy of both. The creature is likely inspired by the Egyptian mongoose, pictured above.</span> </span> very pernicious by land.
 - For his ears are so acute that they sting again.
