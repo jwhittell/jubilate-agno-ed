@@ -13,10 +13,32 @@ permalink: /texts/animals.html
 ## Creature 3
 
 
+<br>
+<br>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br>
 
 
 
-
-
-
-## Ichneumon Rat <div id=ichneumon> </div>
+## Ichneumon Rat 
+<span id="ichneumon"> </span>
