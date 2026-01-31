@@ -38,10 +38,10 @@ permalink: /texts/animals.html
 <br><br>
 <br>
 
-
+<span id="ichneumon"> </span>
 
 ## Ichneumon Rat 
-<span id="ichneumon"> </span>
+
 
 <br>
 <br>
