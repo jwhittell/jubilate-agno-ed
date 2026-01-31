@@ -34,12 +34,18 @@ permalink: /texts/animals.html
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
-<br>
+
 
 <span id="ichneumon"> </span>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Ichneumon Rat 
 
 
