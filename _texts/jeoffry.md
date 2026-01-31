@@ -111,7 +111,7 @@ One of the most-cited passages from Jubilate Agno, this section lavishes attenti
 - For he made a great figure in Egypt for his signal services.
 - For he killed the <span class="tooltip">Ichneumon-rat <span class="tooltiptext"><img src=
 "{{site.baseurl}}/assets/ichneumon rat.jpg"
-                 style="width: 20px; justify-content: center; height: auto;"> In medieval literature and zoology, the Ichneumon rat could resist the venom of snakes and the fire of dragons, making it the natural enemy of both. The creature is likely inspired by the Egyptian mongoose, pictured above.</span> </span> very pernicious by land.
+                 style="width: 20px; display: flex; justify-content: center; height: auto;"> In medieval literature and zoology, the Ichneumon rat could resist the venom of snakes and the fire of dragons, making it the natural enemy of both. The creature is likely inspired by the Egyptian mongoose, pictured above.</span> </span> very pernicious by land.
 - For his ears are so acute that they sting again.
 - For from this proceeds the passing quickness of his attention.
 - For by stroking of him I have found out electricity.
